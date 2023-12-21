@@ -15,7 +15,7 @@ imgElem.onload = function(){
     ctx.drawImage(imgElem, 0, 0, canvas.width, canvas.height);
 };
 
-imgElem.src = 'hu1.png';
+imgElem.src = 'qkdxkfcnfanswp.jpeg';
 
 let painting = false;
 let currentColor = "#000000"; // 현재 선택된 색상 저장 변수
